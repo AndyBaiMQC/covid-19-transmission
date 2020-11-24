@@ -1,0 +1,49 @@
+Overall Feedback
+R1: 
+
+Overall score out of 5. Assign a score from 1 to 5, 5 being the best
+
+4.5
+
+Strengths.  What are the top three strengths of this proposal?
+1. Perfect knowledge of the situation. Great investigation is done regarding the problem.
+2. Good connection establishment with the previous work
+3. Nice project definition
+
+Places for improvement. What are the three weaknesses of this proposal?
+1. the first item in Experiments section could be explained better and more clear.
+2.it would be better if there was a better balance between introduction and objectives sections; i.e., objectives could be explained a little in more detail (of course many details are not available yet).
+3.
+
+Other comments or feedback:
+
+-Overuse of the word "leverage"
+-incomplete sentence in the third paragraph of introduction. (the first sentence)
+
+R2: 
+
+Overall score out of 5. Assign a score from 1 to 5, 5 being the best
+4
+
+Strengths.  What are the top three strengths of this proposal?
+1.The proposed project is well anchored to a published paper which will make it easier to structure the work.
+2.Problem context is well understood and the project is well justified. It will provide interesting insights if it succeeds.
+3.The idea of developing a web application for visualization is great, although it will probably be time consuming.
+
+Places for improvment. What are the three weaknesses of this proposal?
+1.A more extensive literature review is required, it is possible that similar work has been done using data from another region.
+2.The methods that will be used are not clearly stated. In particular, it is not obvious how graph representation learning mentioned in the related works section will be useful.
+3.The abstract should be more of a summary, the introduction is the appropriate section to provide context.
+
+My comments:
+
+Some classical
+compartnment-based models were used to establish
+baseline understanding, such as Erdos-Renyi (ER)
+graph. : ER is not a compartnment based model or and epidemic model
+
+Related works need to be expanded 
+
+Instead of facebook100, I suggest using POI data, e.g. https://www.kaggle.com/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_checkin.json
+
+or SafeGraph
