@@ -1,0 +1,30 @@
+Reviewer 1:
+
+Strengths. What are the top three strengths of the submission?
+1. Well arranged and scheduled project progresstion and future direction
+2. Great data exploration as presented in Fig. 2 and discussed in
+3. Clear definition for the models applied in the project
+
+Weaknesses. What are the top three weaknesses of the submission?
+-These are not really weaknesses, but just a few questions and suggestions that perhaps you can clarify in the final report:
+1. Are you able to find some data / statistics that help you determine the parameter settings for your current model? e.g. the mask coefficient m
+2. Maybe you can describe the relationship between the mask coefficient and the transmission probability a bit more clear. Is the coefficient itself the transmission probability, or does it act as as a coefficient such that:
+transmission probability = m * theta as defined in CGEM model of section 2.3
+3. In background of section 2, various models have been introduced. Apologize if I've missed it, but which type of the disease progression models introduced have been applied in this project? Is it just ER/BA models?
+
+
+
+Reviewer 2:
+
+Strengths. What are the top three strengths of the submission?
+1. Strong background and related works sections.
+2. Social impact of the model expansions made very clear throughout.
+3. Comprehensive coverage of models and the inclusion of a synthetic model is a nice touch.
+
+Weaknesses. What are the top three weaknesses of the submission?
+1. There could be more discussion about the impact of the resulting data (eg degree distribution etc.) and what it means for the issue being addressed.
+2. Reasoning for the inclusion of the data (graphs) is not relayed clearly.
+3. Just those two :)
+
+Other comments:
+Really cool project! The comparisons of these network models is interesting and the reasoning and theory behind the model expansions is given in a sound and clear manner. Good job!
